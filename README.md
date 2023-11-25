@@ -1,6 +1,6 @@
-# Dam Vinh Hung's Store (DVHStore)
-*A simple shopping website, inspired by my Django e-commerce project (DVHStore)
-*This is a final project on Java Web Development (PRJ301) and is graded 10/10 by HoaDNT (kind of)
+# Dam Vinh Hung's Store LITE (DVHStore Lite)
+A simple shopping website, inspired by my Django e-commerce project (DVHStore)
+This is a final project on Java Web Development (PRJ301) and is graded 10/10 by HoaDNT *(kind of)*
 
 # Features
 - Login and sign up using username/password credentials or Google Account (OAuth2)
